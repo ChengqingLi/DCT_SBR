@@ -1,6 +1,6 @@
 # Recovery of Sign Bits of DCT Coefficients
 
-By Ruiyuan Lin, Jun Jiang, Sheng Liu, and Shujun Li (in order of contribution).
+Developed by Ruiyuan Lin, Jun Jiang, Sheng Liu, and Shujun Li (in order of contribution).
 
 ## Installation
 
