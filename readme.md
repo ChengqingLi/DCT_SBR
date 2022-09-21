@@ -1,5 +1,7 @@
 # Recovery of Sign Bits of DCT Coefficients
 
+By Ruiyuan Lin, Jun Jiang, Sheng Liu, and Shujun Li (in order of contribution).
+
 ## Installation
 
 1. Install MATLAB
@@ -37,3 +39,12 @@ Running the following scripts with some modification to reproduce the experiment
 - `batch_LP.m`
 - `batch_LP_JPEG.m`
 - `batch_MIP.m`
+
+For more detailed description, see [document.md](/document.md).
+
+## License
+
+This project is released under the [Apache 2.0 license](LICENSE).
+
+## Citation
+<To be added>
